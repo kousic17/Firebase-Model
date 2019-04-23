@@ -1,0 +1,130 @@
+* {
+  font-family: 'Roboto', sans-serif;
+}
+body {
+  background: #FF9800;
+  overflow-x: hidden;
+}
+.navbar {
+  position: fixed;
+  box-sizing: inherit;
+  box-shadow: 0 4px 4px 0px rgba(0, 0, 0, 0.2);
+  height: 50px;
+  background-color: #FFFFFF;
+}
+.navbar-brand img {
+  height: 32px;
+}
+.nav-item {
+  padding: 0 24px;
+}
+.nav-item:focus {
+  z-index: -1;
+}
+.nav-link {
+  font-size: 14px;
+}
+.search-form {
+  margin-right: 65px;
+}
+input[type=text] {
+  display: block;
+  height: 30px;
+  position: relative;
+  margin: 0 0 0 auto;
+  width: 130px;
+  text-align: left;
+  box-sizing: border-box;
+  border: 0;
+  border-radius: 4px;
+  font-size: 12px;
+  background-color: #F7F7F7;
+  background-position: 10px 10px;
+  background-repeat: no-repeat;
+  padding: 12px 20px 12px 40px;
+  -webkit-transition: width 0.4s ease-in-out;
+  transition: width 0.4s ease-in-out;
+}
+input[type=text]:focus {
+  width: 260px;
+}
+.header-title {
+  text-align: left;
+}
+.header-link {
+  margin-right: 55px;
+  font-size: 13px;
+  font-family: 'Roboto', sans-serif;
+  color: #039be5;
+  font-weight: bold;
+}
+.header-link:hover {
+  text-decoration: none;
+}
+.card {
+  margin-top: 150px;
+  margin-left: 20px;
+  text-align: center;
+  box-shadow: 0 20px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
+}
+.column {
+  margin: 12px;
+  padding-left: 130px;
+}
+h4 {
+  font-weight: bold;
+}
+section {
+  float: left;
+}
+ul li {
+  display: flex;
+  list-style-type: none;
+}
+.group-item {
+  text-align: left;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 500;
+  font-size: 12px;
+  margin-left: 25px;
+}
+.group-item a {
+  text-decoration: none;
+  color: #424242;
+  font-weight: bold;
+}
+.features {
+  margin-left: 10px;
+}
+.feature-description {
+  opacity: 0.4;
+}
+.col-btn {
+  float: left;
+  padding-right: 20px;
+  margin-top: 50px;
+}
+.btn {
+  font-family: 'Roboto', sans-serif;
+  font-size: 13px;
+}
+hr {
+  width: 1103px;
+  margin-top: 100px;
+  margin-left: -18px;
+  color: #212121;
+  clear: left;
+}
+.integration {
+  float: left;
+  margin-left: 50px;
+}
+.integrations-icon {
+  display: block;
+}
+.features-name {
+  font-weight: bold;
+  font-family: 'Roboto', sans-serif;
+  text-align: center;
+  font-size: 14px;
+}
