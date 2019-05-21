@@ -9,7 +9,7 @@
 <a href="https://getbootstrap.com/">Bootstrap</a> - One of the popular framework for building applications and responsive websites.
 
 **Contributing**
-<p>Please read <a href="https://gist.github.com/PurpleBooth/b24679402957c63ec426">CONTRIBUTING.md</a> for details on my code of conduct, and the process for submitting pull requests.</p>
+<p>Please read <a href="https://github.com/kousic17/Firebase-Model/blob/master/CONTRIBUTING">CONTRIBUTING.md</a> for details on my code of conduct, and the process for submitting pull requests.</p>
 
 **License**
 <p>This project is licensed under the MIT License - see the <a href="https://github.com/kousic17/Firebase-Model/blob/master/LICENSE">LICENSE.md</a> file for details</p>
