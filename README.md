@@ -11,5 +11,5 @@
 **Contributing**
 <p>Please read <a href="https://gist.github.com/PurpleBooth/b24679402957c63ec426">CONTRIBUTING.md</a> for details on my code of conduct, and the process for submitting pull requests.</p>
 
-**Licence**
+**License**
 <p>This project is licensed under the MIT License - see the <a href="https://github.com/kousic17/Firebase-Model/blob/master/LICENSE">LICENSE.md</a> file for details</p>
